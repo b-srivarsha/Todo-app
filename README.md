@@ -1,5 +1,7 @@
 # Tasks — a minimal to-do list
 
+<img width="641" height="221" alt="Screenshot 2026-09-27 at 12 25 43 AM" src="https://github.com/user-attachments/assets/930230f9-5f81-4cb7-83ca-74f0bb57cb17" />
+
 A clean, responsive to-do list built with **plain HTML, CSS, and vanilla JavaScript**. It has no frameworks, no build step, and no dependencies.
 
 ## Features
